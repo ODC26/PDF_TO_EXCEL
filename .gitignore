@@ -1,0 +1,17 @@
+# Ignorer tous les fichiers Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.csv   # si tu veux aussi ignorer les CSV générés
+
+# Ignorer tous les fichiers PDF
+*.pdf
+
+# Ignorer tous les fichiers Word
+*.doc
+*.docx
+*.docm
+*.dot
+*.dotx
+*.dotm
